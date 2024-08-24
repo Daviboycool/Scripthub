@@ -68,7 +68,7 @@ wel:AddButton({
     end
 })
 
-wel:AddLabel("here script gui , " .. playerName)
+wel:AddLabel("here script gui")
 
 wel:AddButton({
     Name = "LIFE BAR TEST",
