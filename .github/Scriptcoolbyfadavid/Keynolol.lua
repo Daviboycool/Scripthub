@@ -68,9 +68,10 @@ wel:AddButton({
     end
 })
 
+wel:AddLabel("here script gui , " .. playerName)
 
 wel:AddButton({
-    Name = "bar life ",
+    Name = "LIFE BAR TEST",
     Callback = function()
         loadstring(game:HttpGet('https://raw.githubusercontent.com/Daviboycool/Scripthub/main/.github/Scriptcoolbyfadavid/Barradevidapart/Hehebuab.lua'))()
     end
